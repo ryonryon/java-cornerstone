@@ -6,6 +6,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - IOExamples2",
+            "request": "launch",
+            "mainClass": "IOExamples2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IOExamples2",
+            "request": "launch",
+            "mainClass": "basic_programming.IOExamples2"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - HelloWorld",
             "request": "launch",
             "mainClass": "HelloWorld"
